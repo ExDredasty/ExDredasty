@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ExDredasty
-- 👀 I’m interested in Sea Of Thieves
 - 🌱 I’m currently learning C++
 - Russian
 --->
